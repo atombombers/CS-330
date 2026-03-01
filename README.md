@@ -2,7 +2,7 @@
 
 When designing software, I focus on structure before getting into detail. In my 3D scene project, I began by building the overall layout with simple shapes to establish proportions and spatial relationships 
 before refining the object textures and lighting. This helped me think in layers: first scene composition, then textures, then lighting. A key design skill I developed was understanding how different materials 
-respond to light—metal surfaces reflect sharp highlights while fabric absorbs light and requires softer ambient and diffuse balance. Working through this process strengthened my ability to break complex projects into 
+respond to light. Metal surfaces reflect sharp highlights while fabric absorbs light and requires softer ambient and diffuse balance. Working through this process strengthened my ability to break complex projects into 
 stages, which I can apply to future software projects by prioritizing structure first and refinement second.
 
 ----------------------------------------------------------------------------------------------------
